@@ -49,7 +49,6 @@ class App extends Component {
   // Reders the Todo App to the browser client
   // =========================================
   render() {
-    // this.state.list
     return (
       <div className="App">
         <header className="App-header">
